@@ -2,11 +2,11 @@
 <h3 align="center">CS + Math @ Caltech 2026</h3>
 
 - Sophomore at Caltech studying computer science with a minor in mathematics and information and data sciences
-- interested in applying sophisticated mathematical principles to elevate the precision and robustness of AI models while simultaneously exploring mathematical methods that can expedite AI execution while preserving accuracy
+- interested in applying <u>sophisticated mathematical principles</u to elevate the <u>precision and robustness of AI models</u> while simultaneously exploring mathematical methods that can expedite AI execution while preserving accuracy
 
 <h3 align="center">Specific Research Interests</h3>
-- I am particularly interested Non-Euclidean methods for machine learning - in particular Geometric Deep Learning
-- I am also quite fascinated by Neural Operators
+- I am particularly interested <u></u>Non-Euclidean methods for machine learning</u> (in particular <u>Geometric Deep Learning</u>)
+- I am also quite fascinated by <u>Neural Operators</u>
 
 I aspire to become a research scientists someday. In my pursuit of this goal, I wish to obtain more research experiences in the field of computer science.
 
