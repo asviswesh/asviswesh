@@ -5,6 +5,7 @@
 - interested in applying <u>sophisticated mathematical principles</u to elevate the <u>precision and robustness of AI models</u> while simultaneously exploring mathematical methods that can expedite AI execution while preserving accuracy
 
 <h3 align="center">Specific Research Interests</h3>
+
 - I am particularly interested <u></u>Non-Euclidean methods for machine learning</u> (in particular <u>Geometric Deep Learning</u>)
 - I am also quite fascinated by <u>Neural Operators</u>
 
