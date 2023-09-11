@@ -16,4 +16,5 @@ I have had the pleasure of pursuing computational chemistry research in the labs
 My work under these research groups can be found under the repositories tab of this profile. Please check them out!
 
 <h3 align="center">Contact Information</h3>
+
 - Feel free to reach out to me at aviswesh (at) caltech.edu!
