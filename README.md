@@ -1,4 +1,4 @@
-<h1 align="center">Annika Viswesh</h1>
+<h1 align="center">Annika S. Viswesh</h1>
 <h3 align="center">CS + Math @ Caltech 2026</h3>
 
 - Sophomore at Caltech studying computer science with a minor in mathematics and information and data sciences
