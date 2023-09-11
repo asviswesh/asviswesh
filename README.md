@@ -8,6 +8,8 @@
 
 My research interests keep evolving (from protein-protein interactions via. a structural biology perspective to applied machine learning for protein fitness prediction to etc.)
 
+Here is what I am currently interested in at the moment.
+
 - I am particularly interested <u></u>Non-Euclidean methods for machine learning</u> (in particular <u>Geometric Deep Learning</u>)
 - I am also quite fascinated by <u>Neural Operators</u>
 
