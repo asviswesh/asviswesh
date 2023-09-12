@@ -10,7 +10,7 @@ My research interests keep evolving (from protein-protein interactions via. a st
 
 Here is what I am currently interested in at the moment.
 
-- I am particularly interested <u></u>Non-Euclidean methods for machine learning</u> (Specifically <u>Geometric Deep Learning</u>)
+- I am particularly interested <u></u>Non-Euclidean methods for machine learning</u> (specifically <u>Geometric Deep Learning</u>)
 - I am also quite fascinated by <u>Neural Operators</u>
 
 I have had the pleasure of pursuing computational chemistry research in the labs of Professor Frances Arnold (2018 Nobel Laureate in Chemistry, Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at Caltech) and Professor Soichi Wakatsuki (Professor of Photon Science and Structural Biology at Stanford). 
