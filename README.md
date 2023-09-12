@@ -15,7 +15,7 @@ Here is what I am currently interested in at the moment.
 
 <h3 align="center">Current Research Collaborations</h3>
 
-I have had the pleasure of pursuing computational chemistry research with esteemed professors, including:
+I have had the pleasure of pursuing computational research (with chemistry-related applications) with esteemed professors, including:
 
 - [Frances Arnold](http://fhalab.caltech.edu/) (2018 Nobel Laureate in Chemistry, Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at Caltech)
 - [Soichi Wakatsuki](https://med.stanford.edu/wakatsukilab.html) (Professor of Photon Science and Structural Biology at Stanford)
