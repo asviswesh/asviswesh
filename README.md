@@ -1,5 +1,5 @@
 <h1 align="center">Annika S. Viswesh</h1>
-<h3 align="center">CS + Math @ Caltech 2026</h3>
+<h3 align="center">Caltech '26. CS, Data Science.</h3>
 
 - Sophomore at Caltech studying computer science with a minor in mathematics and information and data sciences
 - interested in applying <u>sophisticated mathematical principles</u> to elevate the <u>precision and robustness of AI models</u> while simultaneously exploring mathematical methods that can expedite AI execution while preserving accuracy
