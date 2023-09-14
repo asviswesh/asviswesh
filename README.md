@@ -11,7 +11,7 @@ My research interests keep evolving (from protein-protein interactions via. a st
 Here is what I am currently interested in at the moment.
 
 - <u>Non-Euclidean methods for machine learning</u> (specifically <u>Geometric Deep Learning</u>)
-- <u>Neural Operators</u>
+- <u>Neural Operators and ODEs</u>
 
 <h3 align="center">Current Research Collaborations</h3>
 
