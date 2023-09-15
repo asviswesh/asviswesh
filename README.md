@@ -7,7 +7,7 @@ My current interests encompass ML, Deep Learning, Probabilistic Modeling, Non-Eu
 
 I'm deeply passionate about pushing the boundaries of AI, Machine Learning, and mathematical innovation through the development of innovative algorithms, data processing techniques, and cutting-edge software solutions to solve complex real-world challenges.  
 
-I'm actively exploring opportunities for research and industry internships in Summer of 2024 and welcome connections with researchers, professors and organizations in this field. Feel free to reach out to me at aviswesh at caltech!
+I'm actively exploring opportunities for research and industry internships and welcome connections with researchers, professors and organizations in this field. Feel free to reach out to me at aviswesh at caltech!
 
 <h3 align="center">Research Collaborations</h3>
 
