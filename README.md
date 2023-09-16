@@ -17,7 +17,7 @@ I have had the pleasure of pursuing research in computational chemistry  with es
 
 - [Frances Arnold](http://fhalab.caltech.edu/) (2018 Nobel Laureate in Chemistry, Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at Caltech)
 - [Soichi Wakatsuki](https://med.stanford.edu/wakatsukilab.html) (Professor of Photon Science and Structural Biology at Stanford)
-  Investigating the Interaction between SARS-CoV-2 NSP15 and a Human E3 Ubiquitin Ligase Using In Silico Methods
+  <p>Investigating the Interaction between SARS-CoV-2 NSP15 and a Human E3 Ubiquitin Ligase Using In Silico Methods</p>
   [Annika Viswesh], Soichi Wakatsuki
   [pdf](https://github.com/asviswesh/wakatsuki_supplemental/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)
 
