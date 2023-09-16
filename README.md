@@ -1,6 +1,8 @@
 <h1 align="center">Annika S. Viswesh</h1>
 <h3 align="center">Caltech '26. CS, Math, Data Science.</h3>
 
+[[LinkedIn]](https://www.linkedin.com/in/annikaviswesh/) [[Email me!]](aviswesh@caltech.edu)
+
 I'm a Caltech sophomore with a strong passion for AI Innovations with Mathematical Foundation. My background includes work in Machine Learning, AI, Computational Chemistry, and Computational Biology. 
 
 My current interests encompass ML, Deep Learning, Probabilistic Modeling, Non-Euclidean Methods, Mathematical Innovation for large-scale AI Algorithms, AI Optimization and Scalability, Data Science, Computational Biology, and Protein Engineering. 
