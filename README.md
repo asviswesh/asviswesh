@@ -1,5 +1,5 @@
 <h1 align="center">Annika S. Viswesh</h1>
-<h3 align="center">Caltech '26. CS, Data Science, Math.</h3>
+<h3 align="center">Caltech '26. CS, Math, Data Science.</h3>
 
 I'm a Caltech sophomore with a strong passion for AI Innovations with Mathematical Foundation. My background includes work in Machine Learning, AI, Computational Chemistry, and Computational Biology. 
 
