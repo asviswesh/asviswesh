@@ -19,7 +19,8 @@ I have had the pleasure of pursuing research in computational chemistry  with es
 - [Soichi Wakatsuki](https://med.stanford.edu/wakatsukilab.html) (Professor of Photon Science and Structural Biology at Stanford)
   <br>Investigating the Interaction between SARS-CoV-2 NSP15 and a Human E3 Ubiquitin Ligase Using In Silico Methods
   <br><ins>Annika Viswesh</ins>, Soichi Wakatsuki
-  <br>[[pdf]](https://github.com/asviswesh/wakatsuki_supplemental/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)
+  <br>[[pdf]](https://github.com/asviswesh/wakatsuki_supplemental/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)[[poster]](https://github.com/asviswesh/wakatsuki_supplemental/blob/main/AnnikaViswesh_Stanford_Research_RNF41_SARS-CoV-2_Poster_2020.pdf)
+  <br>The Protein Society 35th Annual Symposium, ISMB/ECCB 2021 - Structural Bioinformatics and Computational Biophysics (3DSIG)
 
 My work under these research groups can be found under the [repositories](https://github.com/asviswesh?tab=repositories) tab of this profile. Please check them out!
 
