@@ -25,7 +25,7 @@ My work under these research groups and more can be found under the [repositorie
 
 - Investigating the Interaction between SARS-CoV-2 NSP15 and a Human E3 Ubiquitin Ligase Using In Silico Methods
 <br><ins>Annika Viswesh</ins>, Soichi Wakatsuki
-<br>[[pdf]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)[[poster]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Stanford_Research_RNF41_SARS-CoV-2_Poster_2020.pdf)
+<br>[[paper]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)[[poster]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Stanford_Research_RNF41_SARS-CoV-2_Poster_2020.pdf)
 <br>The Protein Society 35th Annual Symposium and ISMB/ECCB 2021 - Structural Bioinformatics and Computational Biophysics (3DSIG) (Poster presentations)
 
 
