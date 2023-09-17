@@ -3,7 +3,7 @@
 
 I'm a Caltech sophomore with a strong passion for AI Innovations with Mathematical Foundation. My background includes work in Machine Learning, AI, Computational Chemistry, and Computational Biology. 
 
-My current interests encompass ML, Deep Learning, Probabilistic Modeling, Non-Euclidean Methods, Mathematical Innovation for large-scale AI Algorithms, AI Optimization and Scalability, Data Science, Computational Biology, and Protein Engineering. 
+My current interests encompass ML, Deep Learning, Probabilistic Modeling, Mathematical Innovation for large-scale AI Algorithms, AI Optimization and Scalability, Data Science, Computational Biology, and Protein Engineering. 
 
 I'm deeply passionate about pushing the boundaries of AI, Machine Learning, and mathematical innovation through the development of innovative algorithms, data processing techniques, and cutting-edge software solutions to solve complex real-world challenges.  
 
@@ -27,6 +27,10 @@ My work under these research groups and more can be found under the [repositorie
 <br><ins>Annika Viswesh</ins>, Soichi Wakatsuki
 <br>[[paper]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)[[poster]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Stanford_Research_RNF41_SARS-CoV-2_Poster_2020.pdf)
 <br>The Protein Society 35th Annual Symposium and ISMB/ECCB 2021 - Structural Bioinformatics and Computational Biophysics (3DSIG) (Poster presentations)
+- Investigating the Sequence Elements that Affect the Translation Efficiency of the Fungal Pathogen Histoplasma Capsulatum
+<br><ins>Annika Viswesh</ins>, Mark Voorhies
+<br>[[paper]](https://past.the-iyrc.org/annika-viswesh.html)[[poster]](https://github.com/asviswesh/sil_ucsf/blob/2037e4ea3f6e059d0d94045166fe78f2de5459a3/AnnikaViswesh_UCSF_Research_Histoplasma_Poster_2019.pdf)
+<br>International Young Researcher’s Conference Fall 2021 (Oral Presentation)  
 
 
 
