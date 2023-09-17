@@ -28,12 +28,10 @@ My work under these research groups and more can be found under the [repositorie
 <br><ins>Annika Viswesh</ins>, Soichi Wakatsuki
 <br>[[paper]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)[[poster]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Stanford_Research_RNF41_SARS-CoV-2_Poster_2020.pdf)
 <br>The Protein Society 35th Annual Symposium and ISMB/ECCB 2021 - Structural Bioinformatics and Computational Biophysics (3DSIG) (Poster presentations)
-<br>
 - Investigating the Sequence Elements that Affect the Translation Efficiency of the Fungal Pathogen Histoplasma Capsulatum
 <br><ins>Annika Viswesh</ins>, Mark Voorhies
 <br>[[paper]](https://past.the-iyrc.org/annika-viswesh.html)[[poster]](https://github.com/asviswesh/sil_ucsf/blob/2037e4ea3f6e059d0d94045166fe78f2de5459a3/AnnikaViswesh_UCSF_Research_Histoplasma_Poster_2019.pdf)
 <br>International Young Researcher’s Conference Fall 2021 (Oral Presentation)
-<br>
 - Investigating the inhibition of the conformational transition of SARS-CoV-2 spike protein using small molecules
 <br><ins>Annika Viswesh</ins>, Carlos Simmerling
 <br>[[poster]](https://github.com/asviswesh/simmerling_stonybrook_public/blob/9f0d05145cbd5cc5cd85ac403f7ef35aafe3fae0/AnnikaViswesh_Simons_Research_SpikeProtein_Poster_2021.pdf)
