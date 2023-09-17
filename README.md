@@ -19,7 +19,7 @@ I have had the pleasure of pursuing research in computational chemistry and comp
 - [Soichi Wakatsuki](https://med.stanford.edu/wakatsukilab.html) (Professor of Photon Science and Structural Biology at Stanford University)
 - [Carlos Simmerling](https://www.simmerlinglab.org/) (Marsha Laufer Professor of Physical and Quantitative Biology at StonyBrook University)
 
-My work under these research groups and more can be found under the [repositories](https://github.com/asviswesh?tab=repositories) tab of this profile. Please check them out!
+Some of my work can be found under the [repositories](https://github.com/asviswesh?tab=repositories) tab of this profile. Please check them out!
 <br>
 <br>
 <h3 align="center">Research Publications and Presentations</h3>
