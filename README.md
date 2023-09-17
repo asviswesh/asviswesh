@@ -13,10 +13,11 @@ I'm actively exploring opportunities for research and industry internships and w
 
 <h3 align="center">Research Collaborations</h3>
 
-I have had the pleasure of pursuing research in computational chemistry  with esteemed professors, including:
+I have had the pleasure of pursuing research in computational chemistry and computational biology with esteemed professors, including:
 
 - [Frances Arnold](http://fhalab.caltech.edu/) (2018 Nobel Laureate in Chemistry, Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at Caltech)
-- [Soichi Wakatsuki](https://med.stanford.edu/wakatsukilab.html) (Professor of Photon Science and Structural Biology at Stanford)
+- [Soichi Wakatsuki](https://med.stanford.edu/wakatsukilab.html) (Professor of Photon Science and Structural Biology at Stanford University)
+- [Carlos Simmerling](https://www.simmerlinglab.org/) (Marsha Laufer Professor of Physical and Quantitative Biology at StonyBrook University)
 
 My work under these research groups and more can be found under the [repositories](https://github.com/asviswesh?tab=repositories) tab of this profile. Please check them out!
 <br>
