@@ -32,7 +32,7 @@ Some of my work can be found under the [repositories](https://github.com/asviswe
 - Investigating the Sequence Elements that Affect the Translation Efficiency of the Fungal Pathogen Histoplasma Capsulatum
 <br><ins>Annika Viswesh</ins>, Mark Voorhies
 <br>[[paper]](https://past.the-iyrc.org/annika-viswesh.html)[[poster]](https://github.com/asviswesh/sil_ucsf/blob/2037e4ea3f6e059d0d94045166fe78f2de5459a3/AnnikaViswesh_UCSF_Research_Histoplasma_Poster_2019.pdf)
-<br>International Young Researcher’s Conference Fall 2021 (Oral Presentation)
+<br>International Young Researcher’s Conference Fall 2021 (Oral presentation)
 
 - Investigating the inhibition of the conformational transition of SARS-CoV-2 spike protein using small molecules
 <br><ins>Annika Viswesh</ins>, Carlos Simmerling
