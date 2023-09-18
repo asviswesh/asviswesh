@@ -41,7 +41,7 @@ Some of my work can be found under the [repositories](https://github.com/asviswe
 
 - Cancer Prediction Using DNA Methylation Profiles
 <br>Annika Viswesh</ins>
-<br>[[poster+abstract]](https://f1000research.com/posters/10-269)
+<br>[[poster]](https://f1000research.com/posters/10-269)
 <br>28th International Conference on Intelligent Systems for Molecular Biology (ISMB) 2020 (Presentation)
 
 
