@@ -3,7 +3,7 @@
 
 I'm a Caltech sophomore with a strong passion for AI Innovations with Mathematical Foundation. My background includes work in Machine Learning, AI, Computational Chemistry, and Computational Biology. 
 
-My current interests encompass ML, Deep Learning, Probabilistic Modeling, Mathematical Innovation for large-scale AI Algorithms, AI Optimization and Scalability, Data Science, Computational Biology, and Protein Engineering. 
+My current interests encompass Machine Learning, Deep Learning, Probabilistic Modeling, Mathematical Innovation for large-scale AI Algorithms, AI Optimization and Scalability, Data Science, Computational Biology, and Protein Engineering. 
 
 I'm deeply passionate about pushing the boundaries of AI, Machine Learning, and mathematical innovation through the development of innovative algorithms, data processing techniques, and cutting-edge software solutions to solve complex real-world challenges.  
 
